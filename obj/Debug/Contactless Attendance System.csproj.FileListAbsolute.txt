@@ -1,0 +1,16 @@
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless Attendance System.csproj.AssemblyReference.cache
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless Attendance System.csproj.SuggestedBindingRedirects.cache
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless_Attendance_System.CAS.Forms.AddClass.resources
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless_Attendance_System.CAS.Forms.Login.resources
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless_Attendance_System.Properties.Resources.resources
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless Attendance System.csproj.GenerateResource.cache
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless Attendance System.csproj.CoreCompileInputs.cache
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\bin\Debug\Contactless Attendance System.exe.config
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\bin\Debug\Contactless Attendance System.exe
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\bin\Debug\Contactless Attendance System.pdb
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless Attendance System.exe
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless Attendance System.pdb
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless_Attendance_System.CAS.Forms.FormMain.resources
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless_Attendance_System.CAS.Forms.Report.resources
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless_Attendance_System.CAS.Forms.Attendance.resources
+C:\Users\charisse ann ramirez\source\repos\Contactless Attendance System\obj\Debug\Contactless_Attendance_System.Add.resources
